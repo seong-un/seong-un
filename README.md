@@ -28,4 +28,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
+  
+  <img src="https://img.shields.io/badge/r-F05032?style=for-the-badge&logo=r&logoColor=blue">
+
+
+  
+
 </div>
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hen7878)](https://solved.ac/hen7878)
