@@ -1,6 +1,6 @@
 - 👋 Hi, I’m seong-un
 - 👀 I’m interested in statistics!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python in SSAFY.
 - 📫 How to reach me hen7878@naver.com
 
 <!---
