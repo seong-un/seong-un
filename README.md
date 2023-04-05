@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Bootstrap-yellow?style=for-the-badge&logo=Bootstrap&logoColor=7952B3"/>
   <br>
   
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> 
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
   <br>
   
