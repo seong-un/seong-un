@@ -43,5 +43,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hen7878)](https://solved.ac/hen7878)
-
-github-readme-stats.vercel.app/api/top-langs/?username={사용자명}&langs_count=8
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seong-un&layout=compact)
