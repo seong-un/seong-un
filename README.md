@@ -1,6 +1,6 @@
 - 👋 안녕하세요, 장성운입니다.
 - 👀 숭실대학교 정보통계보험수리학과를 졸업했습니다. (2016.03 ~ 2023.02)
-- 🌱 삼성 청년 SW 아카데미(SSAFY)를 이수했습니다. (2023.01.04 ~ 2023.05.26)
+- 🌱 삼성 청년 SW 아카데미(SSAFY)를 이수했습니다. (2023.01.04 ~ )
 - 📫 hen7878@naver.com
 
 <!---
@@ -44,3 +44,5 @@ You can click the Preview link to take a look at your changes.
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hen7878)](https://solved.ac/hen7878)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seong-un&layout=compact)
+
+
