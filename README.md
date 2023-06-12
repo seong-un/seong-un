@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
   <th>Achievement</th>
   <th>Date</th>
   <tr>
-    <td>뉴욕 택시 데이터를 이용한 빅데이터 분석</td>
+    <td>뉴욕 택시 데이터를 이용한 빅데이터 분석 [RHadoop프로젝트.docx](https://github.com/seong-un/seong-un/files/11719975/RHadoop.docx)</td>
     <td>2020년 빅데이터 분석 대회 우수상</td>
     <td>2020.09.01 - 2020.12.18</td>
   </tr>
