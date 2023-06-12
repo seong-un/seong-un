@@ -1,7 +1,7 @@
-- 👋 Hi, I’m seong-un
-- 👀 I’m interested in statistics!
-- 🌱 I’m currently learning Python in SSAFY.
-- 📫 How to reach me hen7878@naver.com
+- 👋 안녕하세요, 장성운입니다.
+- 👀 숭실대학교 정보통계보험수리학과를 졸업했습니다. (2016.03 ~ 2023.02)
+- 🌱 삼성 청년 SW 아카데미(SSAFY)를 이수했습니다. (2023.01.04 ~ 2023.05.26)
+- 📫 hen7878@naver.com
 
 <!---
 seong-un/seong-un is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
