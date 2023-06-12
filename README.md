@@ -46,3 +46,19 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seong-un&layout=compact)
 
 
+<h3>💻 Activities</h3>
+<table>
+  <th>Project</th>
+  <th>Achievement</th>
+  <th>Date</th>
+  <tr>
+    <td>뉴욕 택시 데이터를 이용한 빅데이터 분석</td>
+    <td>2020년 빅데이터 분석 대회 우수상</td>
+    <td>2020.09.01 - 2020.12.18</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kang-jang/final_pjt">Open API와 외부 데이터를 활용한 영화 추천 서비스</a></td>
+    <td>삼성 청년 SW아카데미 프로젝트 경진대회 1학기 프로젝트</td>
+    <td>2023.05.17 - 2023.05.25</td>
+  </tr>
+</table>
