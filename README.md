@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td><a href="https://github.com/kang-jang/final_pjt">Open API와 외부 데이터를 활용한 영화 추천 서비스</a></td>
-    <td>삼성 청년 SW아카데미 프로젝트 경진대회 1학기 프로젝트</td>
+    <td>삼성 청년 SW아카데미 1학기 프로젝트 경진대회</td>
     <td>2023.05.17 - 2023.05.25</td>
   </tr>
 </table>
