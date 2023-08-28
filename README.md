@@ -66,4 +66,8 @@ You can click the Preview link to take a look at your changes.
     <td>삼성 청년 SW아카데미 1학기 프로젝트 경진대회</td>
     <td>2023.05.17 - 2023.05.25</td>
   </tr>
+    <td><a href="[https://github.com/kang-jang/final_pjt](https://github.com/seong-un/phonegojisin/tree/master)">폐휴대폰 순환을 위한 애플리케이션 개발(폰고지신)</a></td>
+    <td>삼성 청년 SW아카데미 2학기 공통 프로젝트 우수상</td>
+    <td>2023.07.02 - 2023.08.18</td>
+  </tr>
 </table>
