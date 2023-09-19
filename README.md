@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
     <td>2020.09.01 - 2020.12.18</td>
   </tr>
   <tr>
-    <td>SQL 입문부터 활용까지 - 데이터 분석 보고서 작성과 대시보드 개발 [장성운 - 3주차 과제.docx](https://github.com/seong-un/seong-un/files/11740732/-.3.docx)</td>
+    <td><a href="https://github.com/seong-un/seong-un/files/11740732/-.3.docx">SQL 입문부터 활용까지 - 데이터 분석 보고서 작성과 대시보드 개발</a></td>
     <td>데이터 직무부트캠프(코멘토) 수료</td>
     <td>2022.07.14 - 2022.08.18</td>
   </tr>
