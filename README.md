@@ -55,6 +55,8 @@ You can click the Preview link to take a look at your changes.
     <td>
       <li>
         <a href="https://github.com/seong-un/seong-un/files/12654351/RHadoop.docx">뉴욕 택시 데이터를 이용한 빅데이터 분석</a><br>
+      </li>
+      <li>
         <a href="https://github.com/seong-un/seong-un/files/12654374/RHadoop.docx">소스 코드</a>
       </li>
     </td>
