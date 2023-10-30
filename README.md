@@ -90,4 +90,13 @@ You can click the Preview link to take a look at your changes.
     <td>삼성 청년 SW아카데미 2학기 공통 프로젝트 우수상</td>
     <td>2023.07.02 - 2023.08.18</td>
   </tr>
+  <tr>
+    <td>
+      <li>
+        <a href="https://github.com/seong-un/phonegojisin/tree/master">키워드를 통한 게임 추천 서비스 개발(Gechu)</a>
+      </li>
+    </td>
+    <td>삼성 청년 SW아카데미 2학기 특화 프로젝트</td>
+    <td>2023.08.21 - 2023.10.06</td>
+  </tr>
 </table>
