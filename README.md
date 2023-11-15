@@ -29,6 +29,7 @@ You can click the Preview link to take a look at your changes.
   <br>
   
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   <br>
   <br>
 
