@@ -95,4 +95,13 @@ You can click the Preview link to take a look at your changes.
     <td>삼성 청년 SW아카데미 2학기 특화 프로젝트</td>
     <td>2023.08.21 - 2023.10.06</td>
   </tr>
+    <tr>
+    <td>
+      <li>
+        <a href="https://github.com/Multicampussa/LAAMS">OPIc 출결 관리 시스템 개발(LAAMS)</a>
+      </li>
+    </td>
+    <td>삼성 청년 SW아카데미 2학기 자율 프로젝트</td>
+    <td>2023.10.09 - 2023.11.17</td>
+  </tr>
 </table>
