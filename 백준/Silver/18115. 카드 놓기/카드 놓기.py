@@ -8,14 +8,13 @@ queue = deque()
 Ai = 1
 for i in A:
     if i == 1:
-        queue.append(Ai)
-    elif i == 2:
-        a = queue.pop()
-        queue.append(Ai)
-        queue.append(a)
-    else:
         queue.appendleft(Ai)
+    elif i == 2:
+        a = queue.popleft()
+        queue.appendleft(Ai)
+        queue.appendleft(a)
+    else:
+        queue.append(Ai)
     Ai += 1
 
-queue.reverse()
 print(*queue)
