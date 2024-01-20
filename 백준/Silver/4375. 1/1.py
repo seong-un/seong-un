@@ -10,6 +10,7 @@ while True:
             if result % n == 0:
                 print(len(str(result)))
                 break
-            result = int(str(result) + '1')
+            result *= 10
+            result += 1
     except:
         break
