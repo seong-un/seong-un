@@ -1,6 +1,3 @@
-import sys
-sys.set_int_max_str_digits(100000)
-
 while True:
     try:
         result = 1
