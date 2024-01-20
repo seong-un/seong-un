@@ -6,7 +6,6 @@ while True:
             if result % n == 0:
                 print(len(str(result)))
                 break
-            result *= 10
-            result += 1
+            result = result * 10 + 1
     except:
         break
