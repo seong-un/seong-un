@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seong-un&layout=compact)
 
 <h3>💻Portfolio</h3>
-[포트폴리오.pdf](https://github.com/seong-un/seong-un/files/14076866/default.pdf)
+<a href="https://github.com/seong-un/seong-un/files/14076866/default.pdf">포트폴리오</a>
 
 
 <h3>💻 Activities</h3>
