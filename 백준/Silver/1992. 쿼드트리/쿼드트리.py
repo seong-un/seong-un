@@ -1,5 +1,4 @@
 def check(left, right, up, down, result):
-    global pss
     pss = True
     if len(set(''.join(video[up][left:right + 1]))) != 1:
         pss = False
