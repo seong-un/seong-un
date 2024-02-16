@@ -5,13 +5,8 @@ prime_number = [True] * 1000001
 prime_number[0] = False
 prime_number[1] = False
 for i in range(2, 1001):
-    a = 2
-    while True:
-        try:
-            prime_number[i * a] = False
-            a += 1
-        except:
-            break
+    for j in range(i * 2, 1000001, i):
+        prime_number[j] = False
 
 while True:
     n = int(input())
@@ -19,9 +14,7 @@ while True:
     if n == 0:
         break
 
-    for idx, i in enumerate(prime_number):
-        if not i:
-            continue
-        if prime_number[n - idx]:
-            print(f'{n} = {idx} + {n - idx}')
+    for i in range(3, n//2 + 1, 2):
+        if prime_number[i] and prime_number[n - i]:
+            print(f'{n} = {i} + {n - i}')
             break
