@@ -1,5 +1,6 @@
 import sys
 sys.setrecursionlimit(2*10**5)
+input = sys.stdin.readline
 
 def front_to_back(tree):
     if len(tree) == 1:
