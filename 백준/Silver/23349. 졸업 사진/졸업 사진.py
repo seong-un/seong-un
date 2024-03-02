@@ -25,19 +25,13 @@ for key, value_list in submit.items():
             max_key = l[0]
 
 result = [max_key, 0, 0]
-max_len = 0
-ml = 0
 start = 0
 for idx, i in enumerate(submit[max_key]):
     if i == max_value:
-        ml += 1
-        if ml == 1:
-            start = idx
+        if result[1] == 0:
+            result[1] = idx
     else:
-        if max_len < ml:
-            max_len = ml
-            result[1] = start
+        if result[1] != 0 and result[2] == 0:
             result[2] = idx
-            break
 
 print(*result)
