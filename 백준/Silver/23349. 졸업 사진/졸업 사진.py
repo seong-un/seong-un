@@ -25,7 +25,6 @@ for key, value_list in submit.items():
             max_key = l[0]
 
 result = [max_key, 0, 0]
-start = 0
 for idx, i in enumerate(submit[max_key]):
     if i == max_value:
         if result[1] == 0:
