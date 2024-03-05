@@ -12,7 +12,7 @@ for idx, i in enumerate(participant[P]):
     if i:
         P_score += problem[idx]
 
-result = 1
+P_rank = 1
 for idx, i in enumerate(participant):
     if idx == P:
         continue
@@ -21,12 +21,12 @@ for idx, i in enumerate(participant):
         if j:
             score += problem[id]
     if score > P_score:
-        result += 1
+        P_rank += 1
     elif score == P_score:
         if sum(participant[idx]) > sum(participant[P]):
-            result += 1
+            P_rank += 1
         elif sum(participant[idx]) == sum(participant[P]):
             if idx < P:
-                result += 1
+                P_rank += 1
 
-print(P_score, result)
+print(P_score, P_rank)
