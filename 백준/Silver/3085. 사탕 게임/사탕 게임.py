@@ -1,5 +1,3 @@
-from collections import deque
-
 N = int(input())
 
 candy = [list(input()) for _ in range(N)]
