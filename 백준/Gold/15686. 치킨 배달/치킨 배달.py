@@ -14,10 +14,6 @@ for i in range(N):
 
 answer = int(1e9)
 for chs in combinations(chicken_house, M):
-    closure = set(chicken_house) - set(chs)
-    for cch in closure:
-        city[cch[0]][cch[1]] = 0
-
     result = 0
     for h in house:
         ch_result = int(1e9)
@@ -26,8 +22,5 @@ for chs in combinations(chicken_house, M):
         result += ch_result
 
     answer = min(result, answer)
-
-    for cch in closure:
-        city[cch[0]][cch[1]] = 2
 
 print(answer)
