@@ -5,7 +5,7 @@ B = int(B)
 A = list(A)
 
 cases = list(permutations(A, len(A)))
-result = 0
+result = -1
 for case in cases:
     if case[0] == '0':
         continue
@@ -13,7 +13,4 @@ for case in cases:
     if A < B:
         result = max(result, A)
 
-if result == 0:
-    print(-1)
-else:
-    print(result)
+print(result)
